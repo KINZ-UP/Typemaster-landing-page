@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KINZ-UP/Typemaster-landing-page)
-- Live Site URL: [Add live site URL here](https://kinz-up.github.io/Typemaster-landing-page//)
+- Solution URL: [https://github.com/KINZ-UP/Typemaster-landing-page](https://github.com/KINZ-UP/Typemaster-landing-page)
+- Live Site URL: [https://kinz-up.github.io/Typemaster-landing-page](https://kinz-up.github.io/Typemaster-landing-page/)
 
 ## My Process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [kinz-up](http://blog.kinzup.com/about)
+- Website - [http://blog.kinzup.com/](http://blog.kinzup.com/)
 - Frontend Mentor - [@Zero-Nine](https://www.frontendmentor.io/profile/KINZ-UP)
